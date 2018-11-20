@@ -1,3 +1,6 @@
+# Moved to https://github.com/PAA-NCIC/GSWITCH
+
+
 <p align="center">
   <a href="https://github.com/jokopi/GSWITCH"><img src="./docs/assets/imgs/gswitch-icon.png"></a>
   <br>
